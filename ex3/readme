@@ -1,3 +1,3 @@
-The mian knowledge of ex3 is how to recognize handwritten digits by using two different ways. 
+The main knowledge of ex3 is how to recognize handwritten digits by using two different ways. 
 The first one is onevsall, using logitical regerssion, the function is predictonevsall
 The second is neural network, mainly forward propagation, the function is predict

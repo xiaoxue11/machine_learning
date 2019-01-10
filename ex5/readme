@@ -1,0 +1,2 @@
+validationCurve and learningCurve:compare training datas and test datas,to choose the better algorithms fitting the datas.
+linearRegCostFunction:calculate cost and gradient
